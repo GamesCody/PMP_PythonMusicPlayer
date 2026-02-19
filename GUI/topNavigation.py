@@ -5,7 +5,6 @@ class TopBar(QFrame):
         super().__init__()
 
         self.setFixedHeight(50)
-        self.setStyleSheet("background-color: #E3D1E6;")
 
         menu_label = QLabel("Logo placeholder")
         menu_layout = QHBoxLayout(self)
