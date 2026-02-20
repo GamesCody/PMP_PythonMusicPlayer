@@ -1,15 +1,16 @@
 QWidget{
     font-family: "Lato-Regular";
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 500;
+    background-color: #94649d;
 }
 
 Sidebar{
-    background-color: #81ac31;
+    background-color: #194c57;
 }
 
 Sidebar QPushButton{
-    background-color: #b74acd;
+    background-color: #67b7af;
     border-radius: 10px;
     border: 1px solid #96219c;
     color: black;
